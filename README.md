@@ -1,8 +1,4 @@
-# Hi, I'm Alex!
-
-## Data Analyst & Scientist
-
-**Denpasar**  
+# Hi, the name's Alex!
 **Email:** [alexriadi99@gmail.com](mailto:alexriadi99@gmail.com)  
 **LinkedIn:** [alex-joseph-riadi](https://www.linkedin.com/in/alex-joseph-riadi/)  
 **GitHub:** [Alex-Riadi](https://github.com/Alex-Riadi)
